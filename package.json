@@ -33,6 +33,7 @@
     "svelte": "^4.2.18"
   },
   "devDependencies": {
+    "@types/d": "^1.0.4",
     "@types/d3": "^7.4.3",
     "@unocss/astro": "^0.62.2",
     "@unocss/postcss": "^0.62.2",
